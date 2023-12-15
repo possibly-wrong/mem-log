@@ -10,7 +10,7 @@
 // filename, line, and symbol of the nearest caller in the stack trace whose
 // filename has the case-sensitive prefix MEM_LOG_PATH.
 #ifndef MEM_LOG_PATH
-#define MEM_LOG_PATH "c:\\users"
+#define MEM_LOG_PATH "C:\\Users"
 #endif
 
 namespace mem
